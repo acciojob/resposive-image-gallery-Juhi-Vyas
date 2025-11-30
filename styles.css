@@ -4,7 +4,7 @@
   justify-content: center;
 }
 
-main.cards img {
+main .cards img {
   max-width: 25vw;
   margin: 10px;
   border: 5px solid #000;
